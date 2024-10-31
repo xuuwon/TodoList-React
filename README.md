@@ -1,4 +1,4 @@
-![대표이미지](./src/images/readme.png)
+![대표이미지](./src/images/GIF-ReactTodoList.gif)
 
 <h1>React로 Todo List 제작하기</h1>
 <ul>
