@@ -1,8 +1,8 @@
-# React + Vite
+![대표이미지](./src/images/readme.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>React로 Todo List 제작하기</h1>
+<ul>
+  <li>useEffect를 활용한 StopWatch 기능</li>
+  <li>todo list 기본</li>
+  <li>명언 불러오기</li>
+</ul>
