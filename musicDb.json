@@ -1,0 +1,28 @@
+{
+    "music": [
+      {
+        "id": "0",
+        "img": "src/images/천상연.jpg",
+        "title": "천상연",
+        "singer": "이창섭"
+      },
+      {
+        "id": "1",
+        "img": "src/images/UP.jpg",
+        "title": "UP (KARINA Solo)",
+        "singer": "aespa"
+      },
+      {
+        "id": "2",
+        "img": "src/images/lemon.jpg",
+        "title": "Lemon",
+        "singer": "Kenshi Yonezu"
+      },
+      {
+        "id": "3",
+        "img": "src/images/sayonara.jpg",
+        "title": "Sayonara, Mata Itsuka!",
+        "singer": "Kenshi Yonezu"
+      }
+    ]
+  }
