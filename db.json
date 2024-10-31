@@ -1,23 +1,18 @@
 {
   "todo": [
     {
-      "id": "39e7",
-      "content": "동근이 놀리기",
+      "id": "b0a7",
+      "content": "React 공부하기",
       "isDone": false
     },
     {
-      "id": "6bdf",
-      "content": "바보 동근이 놀리기",
+      "id": "1311",
+      "content": "Debounce, Throttle 개념 익히기",
       "isDone": false
     },
     {
-      "id": "3f54",
-      "content": "동근이 돼지 만들기",
-      "isDone": false
-    },
-    {
-      "id": "f70a",
-      "content": "동근이 다시 80kg 만들기",
+      "id": "32c7",
+      "content": "과제하기",
       "isDone": false
     }
   ]
